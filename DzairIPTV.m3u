@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml.gz"
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV1.png" group-title="National TV" ,EPTV 1 الأولى
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV1.png" group-title=" TV" ,EPTV 1 الأولى
 https://cdn.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV2.png" ,Canal Algérieالثانية
 https://cdn.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
@@ -33,9 +33,9 @@ https://cdn.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
 https://cdn.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/NEDJMA.png" ,Nedjma Tv نجمة
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouknews.png" group-title="News TV",Echorouk News الشروق الإخبارية
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouknews.png" ,Echorouk News الشروق الإخبارية
 https://cdn.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouknews.png" group-title="News TV",Echorouk News الشروق الإخبارية
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouknews.png" ,Echorouk News الشروق الإخبارية
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukNews/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ennahar.png" ,Ennahar News النهار 
 https://cdn.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
@@ -45,7 +45,7 @@ https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/chunks.m3u8|Referer=
 https://cdn.hta.dz/abr_htatv/AL24_News/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Al_Magharibia.png",AL Magharibia المغاربية 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCwKS2U-DwjPZZvM6mSXPKgA/live
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/bahia.png"group-title="Local TV" ,Bahia TV Oran الباهية
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/bahia.png" ,Bahia TV Oran الباهية
 https://cdn.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ElFadjerTV.png" ,El Fadjr SBA الفجر
 https://cdn.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8
@@ -53,13 +53,13 @@ https://cdn.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NN6ntn1/belmedia.jpg" ,Bel Media Music Kabyle
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCtj2xA6lW9BPE4BxnhxQQkw/live
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elheddaf.png" group-title="Sports TV",HTV الهدّاف
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elheddaf.png",HTV الهدّاف
 https://cdn.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Samira.png" group-title="Women's" ,Samira TV سميرة 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Samira.png"  ,Samira TV سميرة 
 https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/zahra.png" ,Zahra TV زهرة
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Elanis.png" group-title="Religion",EL Aniss الأنيس
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Elanis.png" ,EL Aniss الأنيس
 https://cdn.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" ,Amou Yazid TV
 http://numide.servemp3.com:8089/hls/ay1.m3u8
@@ -81,14 +81,20 @@ https://webradio.tda.dz/Coran_64K.mp3
 https://webradio.tda.dz/ElBahdja_64K.mp3
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/jilfm.png" ,Jil FM
 https://webradio.tda.dz/Jeunesse_64K.mp3
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ufc.png" ,UFC جامعة التكوين المتواصل
-https://ufc.ice.infomaniak.ch/ufc-32.aac
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/antin-a.png" group-title="إذاعات المهجرRadio Diaspora📻 ",RADIO ANTINEA BERBERE 
 https://listen.radioking.com/radio/6640/stream/63289
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/beurfm.png",Beur FM
 http://beurfm.ice.infomaniak.ch/beurfm-high.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/JOW.png" group-title="Private Radio الإذاعات الخاصة",jow radio
 https://ice.creacast.com/jowradio
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/JOW%20RAI.png",JOW RAI
+https://ice.creacast.com/jowradio-rai
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/JOWBERBERE.png",JOW berbere
+https://ice.creacast.com/jowradio-north_africa
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/JOWRAP.png",JOW RAP
+https://ice.creacast.com/jowradio-jow_rap
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/JOWISLAM.png",JOW ISLAM
+https://ice.creacast.com/jowradio-diny
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/radiom.png",RADIO M
 https://listen.radioking.com/radio/540956/stream/599777
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/adrar.png" group-title="الإذاعة المحلّيةLocal Radio 📻 " ,Radio Adrar أدرار
