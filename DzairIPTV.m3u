@@ -1,66 +1,66 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml.gz"
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV1.png" group-title=" TV" ,EPTV 1 الأولى
-https://cdn.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV2.png" ,Canal Algérieالثانية
-https://cdn.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV3.png" ,A3 News الإخبارية 
-https://cdn.hta.dz/abr_htatv/A3_HD/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV4.png" ,EPTV 4 Tamazighth الأمازيغية
-https://cdn.hta.dz/abr_htatv/TV_4/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV5.png" ,EPTV 5 Quran القرآن الكريم
-https://cdn.hta.dz/abr_htatv/TV_5/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV6.png" ,EPTV YOUTH السّادسة
-https://cdn.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV7.png" ,EPTV 7 El Maarifa المعرفة
-https://cdn.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV8.png" ,EPTV 8 Edhakira الذّاكرة
-https://cdn.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elbarlamaniya.png", EPTV 9 El Barlamaniya البرلمانية
 
 #EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouk.png", Echorouk  الشروق 
-https://cdn.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
+
 #EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouk.png", Echorouk  الشروق 
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/playlist.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
 #EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouk.png", Echorouk  الشروق 
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ElBilad.png" , El Bilad البلاد
-https://cdn.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/El_Hayat_TV.png" ,El Hayat الحياة 
-https://cdn.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elwatania.png",El Watania الوطنية
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/N1.png" ,El Djazair N1
-https://cdn.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/NEDJMA.png" ,Nedjma Tv نجمة
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouknews.png" ,Echorouk News الشروق الإخبارية
-https://cdn.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouknews.png" ,Echorouk News الشروق الإخبارية
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukNews/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ennahar.png" ,Ennahar News النهار 
-https://cdn.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ennahar.png" ,Ennahar News النهار 
 https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/al24.png",AL24NEWS قناة الجزائر الدّولية
-https://cdn.hta.dz/abr_htatv/AL24_News/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Al_Magharibia.png",AL Magharibia المغاربية 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCwKS2U-DwjPZZvM6mSXPKgA/live
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/bahia.png" ,Bahia TV Oran الباهية
-https://cdn.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ElFadjerTV.png" ,El Fadjr SBA الفجر
-https://cdn.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Berb%C3%A8re.png" ,BERBERE TV Kabyle
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NN6ntn1/belmedia.jpg" ,Bel Media Music Kabyle
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCtj2xA6lW9BPE4BxnhxQQkw/live
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elheddaf.png",HTV الهدّاف
-https://cdn.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Samira.png"  ,Samira TV سميرة 
 https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/zahra.png" ,Zahra TV زهرة
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Elanis.png" ,EL Aniss الأنيس
-https://cdn.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" ,Amou Yazid TV
 http://numide.servemp3.com:8089/hls/ay1.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/iktisadia1.png",El Iktisadia Eloula الإقتصادية الأولى
