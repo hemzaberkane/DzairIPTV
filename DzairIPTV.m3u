@@ -26,7 +26,7 @@ https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/chunks.m3u8|Referer=http
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ElBilad.png" , El Bilad البلاد
 http://45.94.31.46:8000/play/a09l/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/hayattv.png" ,El Hayat الحياة 
-
+http://149.100.11.235:8000/play/a04n/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elwatania.png",El Watania الوطنية
 http://149.100.11.235:8000/play/a04m/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/N1.png" ,El Djazair N1
@@ -42,7 +42,7 @@ http://149.100.11.235:8000/play/a04v/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ennahar.png" ,Ennahar News النهار 
 https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/al24.png",AL24NEWS قناة الجزائر الدّولية
-
+http://45.94.31.46:8000/play/a09k/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Al_Magharibia.png",AL Magharibia المغاربية 
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/bahia.png" ,Bahia TV Oran الباهية
