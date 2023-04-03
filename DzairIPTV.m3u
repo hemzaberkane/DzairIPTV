@@ -16,29 +16,29 @@ http://185.234.217.116:8041/play/a06d/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV8.png" ,EPTV 8 Edhakira الذّاكرة
 http://185.234.217.116:8041/play/a06e/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elbarlamaniya.png", EPTV 9 El Barlamaniya البرلمانية
-
+http://149.100.11.235:8000/play/a03e/index.m3u8
 #EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouk.png", Echorouk  الشروق 
-
+http://149.100.11.235:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouk.png", Echorouk  الشروق 
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/playlist.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
 #EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouk.png", Echorouk  الشروق 
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ElBilad.png" , El Bilad البلاد
-
+http://45.94.31.46:8000/play/a09l/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/hayattv.png" ,El Hayat الحياة 
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elwatania.png",El Watania الوطنية
-
+http://149.100.11.235:8000/play/a04m/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/N1.png" ,El Djazair N1
-
+http://149.100.11.235:8000/play/a04q/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/NEDJMA.png" ,Nedjma Tv نجمة
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouknews.png" ,Echorouk News الشروق الإخبارية
-
+http://149.100.11.235:8000/play/a04j/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouknews.png" ,Echorouk News الشروق الإخبارية
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukNews/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ennahar.png" ,Ennahar News النهار 
-
+http://149.100.11.235:8000/play/a04v/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ennahar.png" ,Ennahar News النهار 
 https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/al24.png",AL24NEWS قناة الجزائر الدّولية
@@ -50,11 +50,11 @@ https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/chunks.m3u8|Referer=
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ElFadjerTV.png" ,El Fadjr SBA الفجر
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Berb%C3%A8re.png" ,BERBERE TV Kabyle
-
+http://149.62.177.114:8000/play/a03x/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/NN6ntn1/belmedia.jpg" ,Bel Media Music Kabyle
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elheddaf.png",HTV الهدّاف
-
+http://45.94.31.46:8000/play/a09h/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Samira.png"  ,Samira TV سميرة 
 https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/zahra.png" ,Zahra TV زهرة
@@ -64,9 +64,9 @@ https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/in
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" ,Amou Yazid TV
 http://numide.servemp3.com:8089/hls/ay1.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/iktisadia1.png",El Iktisadia Eloula الإقتصادية الأولى
-
+http://45.94.31.46:8000/play/a09i/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echaabia.png",Echaabia TV الشّعبية 
-
+http://45.94.31.46:8000/play/a05p/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Sahara.png",Sahraa TV صحراء
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ch1.png" group-title=" 📻 National Radio الإذاعة الوطنية" ,Chaine 1 الأولى
