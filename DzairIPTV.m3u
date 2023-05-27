@@ -2,7 +2,7 @@
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV1.png" group-title=" TV" ,EPTV 1 الأولى
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV2.png" ,Canal Algérie الثانية
-
+https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV3.png" ,A3 News الإخبارية 
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV4.png" ,EPTV 4 Tamazighth الأمازيغية
@@ -69,6 +69,12 @@ http://numide.servemp3.com:8089/hls/ay1.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Sahara.png",Sahraa TV صحراء
 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ch1.png" group-title=" 📻Radio TV " ,Chaine 1 
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ch2.png" ,Chaine 2 Tamazighth 
+https://live.cache-stream.workers.dev/stream/rTX4PKwjyys&ab-hg/live.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ch3.png" ,Chaine 3 FR WEB
+https://live.cache-stream.workers.dev/stream/4gmZPbX4vY8&ab-hg/live.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ch1.png" group-title=" 📻 National Radio الإذاعة الوطنية" ,Chaine 1 الأولى
 https://webradio.tda.dz/Chaine1_64K.mp3
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ch2.png" ,Chaine 2 Tamazighth الثّانية
