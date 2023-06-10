@@ -1,4 +1,13 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml.gz"
+#EXTINF:-1 tvg-id="EchoroukNews.dz",Echorouk News (576p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://echorouk.dzsecurity.net
+https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/playlist.m3u8
+#EXTINF:-1 tvg-id="EchoroukTV.dz",Echorouk TV (576p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://echorouk.dzsecurity.net
+https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/playlist.m3u8
+#EXTINF:-1 tvg-id="EnnaharTV.dz",Ennahar TV (576p) [Not 24/7] [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://ennahar.dzsecurity.net
+https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV1.png" group-title=" TV" ,EPTV 1 الأولى
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV2.png" ,Canal Algérie الثانية
