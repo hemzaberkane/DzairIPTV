@@ -1,13 +1,5 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/dz.xml.gz"
-#EXTINF:-1 tvg-id="EchoroukNews.dz",Echorouk News (576p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://echorouk.dzsecurity.net
-https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/playlist.m3u8
-#EXTINF:-1 tvg-id="EchoroukTV.dz",Echorouk TV (576p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://echorouk.dzsecurity.net
-https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/playlist.m3u8
-#EXTINF:-1 tvg-id="EnnaharTV.dz",Ennahar TV (576p) [Not 24/7] [Geo-blocked]
-#EXTVLCOPT:http-referrer=https://ennahar.dzsecurity.net
-https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV1.png" group-title=" TV" ,EPTV 1 الأولى
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV2.png" ,Canal Algérie الثانية
@@ -26,15 +18,10 @@ https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elbarlamaniya.png", EPTV 9 El Barlamaniya البرلمانية
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="No group" tvg-id="146" tvg-name="146", TV Okey
-#EXTVLCOPT:http-referrer=https://echorouk.dzsecurity.net/embed/echorouk.php
-https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/chunks.m3u8
+
 #EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouk.png", Echorouk  الشروق 
 https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
-#EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouk.png", Echorouk  الشروق 
-https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/playlist.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
-#EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouk.png", Echorouk  الشروق 
-https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ElBilad.png" , El Bilad البلاد
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/hayattv.png" ,El Hayat الحياة 
@@ -48,7 +35,7 @@ https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/chunks.m3u8|Referer=http
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouknews.png" ,Echorouk News الشروق الإخبارية
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouknews.png" ,Echorouk News الشروق الإخبارية
-https://echorouk-live-tv.dzsecurity.net/echo/EchoroukNews/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
+https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukNews_First/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ennahar.png" ,Ennahar News النهار 
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ennahar.png" ,Ennahar News النهار 
