@@ -92,6 +92,8 @@ https://webradio.tda.dz/Coran_64K.mp3
 https://webradio.tda.dz/ElBahdja_64K.mp3
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/jilfm.png" ,Jil FM
 https://webradio.tda.dz/Jeunesse_64K.mp3
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/zmenfm.png" , زمان FM 
+https://webradio.tda.dz/Zamen_64K.mp3
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/antin-a.png" group-title="إذاعات المهجرRadio Diaspora📻 ",RADIO ANTINEA BERBERE 
 https://listen.radioking.com/radio/6640/stream/63289
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/beurfm.png",Beur FM
