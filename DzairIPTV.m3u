@@ -69,8 +69,8 @@ http://numide.servemp3.com:8089/hls/ay1.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ch1.png" group-title=" 📻Radio TV " ,Chaine 1 
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ch2.png" ,Chaine 2 Tamazighth 
-https://live.cache-stream.workers.dev/stream/ntLINFjihIU&ab-hg/live.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ch3.png" ,Chaine 3 FR WEB
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ch3.png" ,Chaine 3 
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ch1.png" group-title=" 📻 National Radio الإذاعة الوطنية" ,Chaine 1 الأولى
 https://webradio.tda.dz/Chaine1_64K.mp3
@@ -78,8 +78,6 @@ https://webradio.tda.dz/Chaine1_64K.mp3
 https://webradio.tda.dz/Chaine2_64K.mp3
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ch3.png" ,Chaine 3 FR
 https://webradio.tda.dz/Chaine3_64K.mp3
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ch3.png" ,Chaine 3 FR WEB
-https://live.cache-stream.workers.dev/stream/4gmZPbX4vY8&ab-hg/live.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/culture.png" ,Culture الثّقافية
 https://webradio.tda.dz/Culture_64K.mp3
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/inter.png" ,Internationale الدّولية
@@ -92,6 +90,8 @@ https://webradio.tda.dz/ElBahdja_64K.mp3
 https://webradio.tda.dz/Jeunesse_64K.mp3
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/zmenfm.png" , زمان FM 
 https://webradio.tda.dz/Zamen_64K.mp3
+#EXTINF:-1  tvg-logo="https://ifrikyafm.com/assets/img/logo.png.png" ,IFRIKYA FM  
+https://webradio.tda.dz/ifrikya_64K.mp3
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/antin-a.png" group-title="إذاعات المهجرRadio Diaspora📻 ",RADIO ANTINEA BERBERE 
 https://listen.radioking.com/radio/6640/stream/63289
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/beurfm.png",Beur FM
