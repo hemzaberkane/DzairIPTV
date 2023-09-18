@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/master/sites/elcinema.com/elcinema.com.channels.xml"
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV1.png" group-title=" TV" ,EPTV 1 الأولى
 
