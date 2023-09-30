@@ -1,9 +1,9 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/master/sites/elcinema.com/elcinema.com.channels.xml"
+#EXTM3U url-tvg=""
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV1.png" group-title=" TV" ,EPTV 1 الأولى
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV2.png" ,Canal Algérie الثانية
-
+https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV3.png" ,A3 News الإخبارية 
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV4.png" ,EPTV 4 Tamazighth الأمازيغية
@@ -54,8 +54,6 @@ https://ythls.onrender.com/channel/UCwKS2U-DwjPZZvM6mSXPKgA.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elheddaf.png",HTV الهدّاف
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Samira.png"  , Samira TV سميرة OFF
-https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Samira.png"  ,Samira TV سميرة 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/samira.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/zahra.png" ,Zahra TV زهرة
