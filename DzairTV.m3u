@@ -66,6 +66,14 @@ http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/eliktisadia1.png",El Iktisadia Eloula الإقتصادية الأولى
 
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title=" Francophone TV ",TV5MONDE Maghreb-Orient
+https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" ,TV5MONDE Style
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" ,TIVI5 MONDE	
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" ,TV5MONDE INFO
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ch1.png" group-title=" 📻Radio TV " ,Chaine 1 
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ch2.png" ,Chaine 2 Tamazighth 
