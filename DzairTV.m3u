@@ -66,13 +66,13 @@ http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/eliktisadia1.png",El Iktisadia Eloula الإقتصادية الأولى
 
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title=" Francophone TV ",TV5MONDE Maghreb-Orient
+#EXTINF:-1  tvg-id="TV5MONDEMaghreb-Orient.fr" tvg-logo="https://maghreb-orient.tv5monde.com/sites/tv5_locaux/files/2022-02/tv5maghreb.png" group-title=" Francophone TV ",TV5MONDE Maghreb-Orient
 https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" ,TV5MONDE Style
+#EXTINF:-1  tvg-id="TV5MondeStyle.fr" tvg-logo="https://maghreb-orient.tv5monde.com/sites/tv5_locaux/files/2023-10/Logo_TV5Monde_Style_Blanc_100_0.png" ,TV5MONDE Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" ,TIVI5 MONDE	
+#EXTINF:-1  tvg-id="TIVI5Monde.fr" tvg-logo="https://maghreb-orient.tv5monde.com/sites/tv5_locaux/files/2023-10/Logo_Tivi-Monde_Blanc_100_0.png" ,TIVI5 MONDE	
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" ,TV5MONDE INFO
+#EXTINF:-1  tvg-id="" tvg-logo="https://maghreb-orient.tv5monde.com/sites/tv5_locaux/files/2023-10/Logo_TV5Monde_Info_Blanc_100_0.png" ,TV5MONDE INFO
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ch1.png" group-title=" 📻Radio TV " ,Chaine 1 
 
