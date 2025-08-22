@@ -1,6 +1,6 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV1.png" group-title=" TV" ,EPTV 1 الأولى
-
+http://149.62.177.98:8000/play/a00i
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV2.png" ,Canal Algérie الثانية
 http://149.100.19.147:8000/play/a04i
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV3.png" ,A3 News الإخبارية 
@@ -55,14 +55,6 @@ http://149.100.19.147:8000/play/a02s
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/4kids.png" ,4 KIDS DZ
 http://149.100.19.147:8000/play/a02t
-#EXTINF:-1  tvg-id="TV5MONDEMaghreb-Orient.fr" tvg-logo="https://maghreb-orient.tv5monde.com/sites/tv5_locaux/files/2022-02/tv5maghreb.png" group-title=" Francophone TV ",TV5MONDE Maghreb-Orient
-https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
-#EXTINF:-1  tvg-id="TV5MondeStyle.fr" tvg-logo="https://maghreb-orient.tv5monde.com/sites/tv5_locaux/files/2023-10/Logo_TV5Monde_Style_Blanc_100_0.png" ,TV5MONDE Style
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
-#EXTINF:-1  tvg-id="TIVI5Monde.fr" tvg-logo="https://maghreb-orient.tv5monde.com/sites/tv5_locaux/files/2023-10/Logo_Tivi-Monde_Blanc_100_0.png" ,TIVI5 MONDE	
-https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="https://maghreb-orient.tv5monde.com/sites/tv5_locaux/files/2023-10/Logo_TV5Monde_Info_Blanc_100_0.png" ,TV5MONDE INFO
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ch1.png" group-title=" 📻Radio TV " ,Chaine 1 
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ch2.png" ,Chaine 2 Tamazighth 
@@ -190,5 +182,6 @@ https://webradio.tda.dz/AinTimouchent_64K.mp3
 https://webradio.tda.dz/Ghardaia_64K.mp3
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/relizane.png" ,Ghélizane FM  غليزان 
 https://webradio.tda.dz/Relizan_64K.mp3
+
 
 
