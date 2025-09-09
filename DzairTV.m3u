@@ -1,60 +1,60 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV1.png" group-title=" TV" ,EPTV 1 الأولى
-http://149.62.177.98:8000/play/a00i
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV2.png" ,Canal Algérie الثانية
-http://149.100.19.147:8000/play/a04i
+https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-HLS8/canalalgerie.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV3.png" ,A3 News الإخبارية 
-http://149.100.19.147:8000/play/a04p
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV4.png" ,EPTV 4 Tamazighth الأمازيغية
-http://149.100.19.147:8000/play/a04j
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV5.png" ,EPTV 5 Quran القرآن الكريم
-http://149.100.19.147:8000/play/a04k
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV6.png" ,EPTV YOUTH الشّبابية
-http://149.100.19.147:8000/play/a04l
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV7.png" ,EPTV 7 El Maarifa المعرفة
-http://149.100.19.147:8000/play/a04m
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV8.png" ,EPTV 8 Edhakira الذّاكرة
-http://149.100.19.147:8000/play/a04n
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ENTV9.png", EPTV 9 El Barlamaniya البرلمانية
-http://149.100.19.147:8000/play/a04o
+
 #EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouk.png", Echorouk  الشروق 
-http://149.100.19.147:8000/play/a02g
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ONETV.png",ONE TV
-http://149.100.19.147:8000/play/a02h
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ElBilad.png" , El Bilad البلاد
-http://149.100.19.147:8000/play/a02p
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/hayattv.png" ,El Hayat الحياة 
-http://149.100.19.147:8000/play/a02k
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/N1.png" ,El Djazair N1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elwatania.png" ,EL WATANIA TV الوطنيّة
-http://149.100.19.147:8000/play/a02j
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouknews.png" ,Echorouk News الشروق الإخبارية
-http://149.100.19.147:8000/play/a02f
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ennahar.png" ,Ennahar News النهار 
-http://149.100.19.147:8000/play/a02r
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/al24.png",AL24NEWS قناة الجزائر الدّولية
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/bahia.png" ,Bahia TV Oran الباهية
-http://149.100.19.147:8000/play/a02i
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ElFadjerTV.png" ,El Fadjr SBA الفجر
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Berb%C3%A8re.png" ,BERBERE TV Kabyle
 
 #EXTINF:-1  tvg-logo="",essalam السّلام
-http://149.100.19.147:8000/play/a02m
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elheddaf.png",HTV الهدّاف
 https://live.eighty-eight.tv:7770/elheddaf1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Samira.png"  ,Samira TV سميرة 
-http://149.100.19.147:8000/play/a02q
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/zahra.png" ,Zahra TV زهرة
-http://149.100.19.147:8000/play/a02s
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/Elanis.png" ,EL Aniss الأنيس
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" ,Amou Yazid TV
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/4kids.png" ,4 KIDS DZ
-http://149.100.19.147:8000/play/a02t
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ch1.png" group-title=" 📻Radio TV " ,Chaine 1 
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ch2.png" ,Chaine 2 Tamazighth 
@@ -182,6 +182,7 @@ https://webradio.tda.dz/AinTimouchent_64K.mp3
 https://webradio.tda.dz/Ghardaia_64K.mp3
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/relizane.png" ,Ghélizane FM  غليزان 
 https://webradio.tda.dz/Relizan_64K.mp3
+
 
 
 
